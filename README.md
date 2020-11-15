@@ -1,2 +1,1 @@
-# VirtualPet
-Feed the dog
+Virtual Pet
